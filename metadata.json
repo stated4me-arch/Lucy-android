@@ -1,0 +1,8 @@
+{
+  "name": "Lucy Personal OS",
+  "description": "A holistic personal growth and history tracker for life, career, and projects, featuring a digital memory system and an AI-powered reflection assistant named Lucy.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
